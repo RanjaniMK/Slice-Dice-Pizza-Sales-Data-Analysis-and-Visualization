@@ -4,6 +4,6 @@ This is a data analytics project designed to help a fictional pizza restaurant o
 
 Data Engineering (SQL): Cleaned, structured, and queried a large dataset to calculate critical business metrics (e.g., Total Revenue, Average Order Value, Total Pizzas Sold).
 
-Data Visualization (Power BI): Built an interactive dashboard tracking sales trends, hourly/monthly peak times, and top/bottom-performing pizza categories.
+Data Visualization (Power BI): Built an interactive dashboard tracking sales trends, hourly peak order times, and top/bottom-performing pizza categories.
 
 ## Tech Stack: SQL | Power BI
